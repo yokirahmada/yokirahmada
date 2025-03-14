@@ -1,5 +1,5 @@
 👋 Hi, I’m Yoki Rahmada
-I’m a **Web Developer**, and **WordPress Specialist** passionate about crafting visually appealing and high-performing websites. I specialize in delivering tailored solutions that enhance user experience and optimize website functionality.
+I’m a **Web Developer** and **WordPress Specialist** passionate about crafting visually appealing and high-performing websites. I specialize in delivering tailored solutions that enhance user experience and optimize website functionality.
 
 🚀 About Me
 - 💻 **Web Developer & WordPress Development**: Customizing themes, plugins, and crafting responsive designs for seamless performance.
